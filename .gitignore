@@ -3,3 +3,9 @@ env
 
 # Macos
 .DS_Store
+
+# Oracle
+oracle-cards*.json
+
+# Embeddings file
+embeddings.txt
