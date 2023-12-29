@@ -1,5 +1,6 @@
-# Python env
+# Python
 env
+__pycache__
 
 # Macos
 .DS_Store
@@ -8,4 +9,4 @@ env
 oracle-cards*.json
 
 # Embeddings file
-embeddings.txt
+embeddings*.pt
