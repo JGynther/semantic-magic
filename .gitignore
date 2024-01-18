@@ -10,3 +10,6 @@ oracle-cards*.json
 
 # Embeddings file
 embeddings*.pt
+
+# Pre-calculated neighbours
+neighbours*.json
